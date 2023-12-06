@@ -1,2 +1,8 @@
-# iter_test
-Using LLM agents to constantly iterate and improve and add content to a basic HTML website.
+# Company website for `Fake Business`
+Website consists of 4 sections:
+- Homepage
+- Services
+- About us
+- Contact page
+
+- 
